@@ -1,0 +1,9 @@
+.nav-span-logo img {
+  height: 3rem;
+}
+
+@media (max-width: 767px) {
+  .service-item {
+    font-size: 1em !important;
+  }
+}/*# sourceMappingURL=styles.css.map */
